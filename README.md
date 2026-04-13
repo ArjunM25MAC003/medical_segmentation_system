@@ -1,5 +1,6 @@
 # Medical Image Analysis & Tumor Segmentation System
 
+Network link: "http://10.23.0.136:8501/"
 Production-style end-to-end medical image analysis project built with:
 
 - Python
